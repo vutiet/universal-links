@@ -11,17 +11,5 @@
 				"paths": [ "*"]
 			}
 		]
-	},
-	"webcredentials": {
-			"apps": [
-					"SP7SA7AG45.com.exact.online",
-					"NH4F4QPB4X.com.telehub.cheeper.dev"
-			]
-	},
-	"activitycontinuation": {
-			"apps": [
-					"SP7SA7AG45.com.exact.online",
-					"NH4F4QPB4X.com.telehub.cheeper.dev"
-			]
 	}
 }
